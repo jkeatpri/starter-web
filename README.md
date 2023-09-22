@@ -22,6 +22,7 @@ file system.
 
 ## How to contribute
 
+Please fork this repository and then issue Pull requests for review.
 
 ### Copuright
 

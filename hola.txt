@@ -26,4 +26,7 @@ Pear
 
 Gracias Thank You
 
+<<<<<<< HEAD
 De Nada You're welcome
+=======
+>>>>>>> 1260ac9fa259ae4425a56dca99defe6f1f78f6d2

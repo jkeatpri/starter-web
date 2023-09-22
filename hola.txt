@@ -1,4 +1,3 @@
-Hola! Mi ammo es Josh.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 Arcu odio ut sem nulla pharetra diam sit amet. Accumsan lacus vel facilisis volutpat est velit egestas. 
@@ -20,5 +19,7 @@ Nulla facilisi morbi tempus iaculis urna. Cursus turpis massa tincidunt dui ut o
 Ornare massa eget egestas purus viverra.
 
 Joshua Keatprichar	jkeatprichar7@gmail.com		@lexusdriver7
-
 Hello, Hola. Como estas. Donde.
+Apple
+
+Pear
